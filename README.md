@@ -6,7 +6,7 @@ The calculator is written as much as possible in Python to give the learning exp
 
 Roadmap:
 
-0.1 Alpha: 2 numbers
+0.1 Alpha: 2 numbers - Achieved Sept 30 2025
 
 0.2 Alpha: 3 numbers
 
